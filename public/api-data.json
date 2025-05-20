@@ -1,0 +1,23 @@
+{
+  "doctors": [
+    {"id": "d1", "name": "Dr. John Smith", "field": "Cardiology"},
+    {"id": "d2", "name": "Dr. Emily Davis", "field": "Dermatology"},
+    {"id": "d3", "name": "Dr. Michael Johnson", "field": "Neurology"},
+    {"id": "d4", "name": "Dr. Sarah Lee", "field": "Pediatrics"},
+    {"id": "d5", "name": "Dr. David Wilson", "field": "Orthopedics"},
+    {"id": "d6", "name": "Dr. Linda Brown", "field": "Gynecology"},
+    {"id": "d7", "name": "Dr. Robert Garcia", "field": "Psychiatry"},
+    {"id": "d8", "name": "Dr. Jennifer Martinez", "field": "Oncology"},
+    {"id": "d9", "name": "Dr. William Anderson", "field": "Endocrinology"},
+    {"id": "d10", "name": "Dr. Patricia Thomas", "field": "Gastroenterology"}
+  ],
+  "users": [
+    {"id": "u1", "username": "alice", "password": "alice123", "role": "user", "name": "Alice Johnson"},
+    {"id": "u2", "username": "bob", "password": "bob123", "role": "user", "name": "Bob Smith"},
+    {"id": "d1", "username": "drjohn", "password": "john123", "role": "doctor", "name": "Dr. John Smith"},
+    {"id": "admin", "username": "admin", "password": "admin123", "role": "admin", "name": "Admin User"}
+  ],
+  "appointments": [
+    
+  ]
+}
